@@ -105,9 +105,3 @@ Players alternate turns, starting with White. The game ends when a king is in **
 - No support for special moves: castling, en passant, or pawn promotion
 - No undo/redo functionality
 - Two players must share the same keyboard
-
----
-
-## Author
-
-**ED24B017**
